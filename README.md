@@ -1,8 +1,8 @@
-<h1> Oi! Eu sou a Bianca Souza! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1> Hi! Eu sou a Bianca Souza! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 - 👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 📖 Atualmente estou realizando o curso da One Bit Code - Programador Full Stack Javascript
-- 👩‍💻 Participando do bootcamp Decola Tech 3 pela DIO
+- 👩‍💻 Participando do bootcamp Decola Tech 3 pela DIO, voltado a JavaScript e React Native
 
 <br></br>
 
