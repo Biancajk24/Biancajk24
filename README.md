@@ -2,7 +2,7 @@
 
 - 👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 📖 Atualmente estou realizando o curso da One Bit Code - Programador Full Stack Javascript
-- 👩‍💻 Participando do bootcamp Decola Tech 3 pela DIO, voltado a JavaScript e React Native
+- 👩‍💻 Participei do bootcamp Decola Tech 3 pela DIO, voltado a JavaScript e React Native
 
 <br></br>
 
